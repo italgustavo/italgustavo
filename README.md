@@ -5,7 +5,6 @@
 Sou graduado em Análise e Desenvolvimento de Sistemas. Tenho experiência em Java, JavaScript, AngularJS, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile e Azure DevOps. Além disso, tenho conhecimentos em .NET, ASPNET, C# e SQL Server.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italgustavo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que tenho experiência:
 <div style="display: inline_block">
