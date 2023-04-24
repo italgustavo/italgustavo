@@ -2,7 +2,7 @@
 
 <p>Sou desenvolvedor com aproximadamente 4 anos de experiência. Atuei em projetos internacionais de uma das maiores soluções em gestão hospitalar do mundo.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas. Possuo experiência em Java, JavaScript, AngularJS, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile e Azure DevOps,.NET, ASPNET, C# e SQL Server.</p>
+Sou graduado em Análise e Desenvolvimento de Sistemas. Possuo experiência em Java, JavaScript, AngularJS, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile,.NET, ASPNET, C# e SQL Server.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italgustavo&show_icons=true&theme=tokyonight)
 
