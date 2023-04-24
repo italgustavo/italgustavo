@@ -1,8 +1,8 @@
-### Olá saudações! eu sou Ítalo Gustavo, Desenvolvedor Full Stack Pleno.
+### Olá saudações! Eu sou Ítalo Gustavo, Desenvolvedor Full Stack Pleno.
 
-<p>Sou Desenvolvedor com aproximadamente 4 anos de experiência. Atuei em projetos internacionais de localização uma das maiores soluções em gestão hospitalar do mundo.
+<p>Sou desenvolvedor com aproximadamente 4 anos de experiência. Atuei em projetos internacionais de uma das maiores soluções em gestão hospitalar do mundo.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas. Tenho experiência em Java, JavaScript, AngularJS, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile e Azure DevOps. Além disso, tenho conhecimentos em .NET, ASPNET, C# e SQL Server.</p>
+Sou graduado em Análise e Desenvolvimento de Sistemas. Possuo experiência em Java, JavaScript, AngularJS, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile e Azure DevOps,.NET, ASPNET, C# e SQL Server.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italgustavo&show_icons=true&theme=tokyonight)
 
