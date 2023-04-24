@@ -1,4 +1,4 @@
-### Olá saudações! Eu sou Ítalo Gustavo, Desenvolvedor Full Stack Pleno.
+### Olá saudações! Sou Ítalo Gustavo, Desenvolvedor Full Stack Pleno.
 
 <p>Sou desenvolvedor com aproximadamente 4 anos de experiência. Atuei em projetos internacionais de uma das maiores soluções em gestão hospitalar do mundo.
 
