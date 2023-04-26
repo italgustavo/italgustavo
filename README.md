@@ -4,24 +4,12 @@
 
 Atuei em projetos internacionais em uma das maiores soluções em gestão hospitalar do mundo.
 
-Experiência em Java, JavaScript, AngularJS, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile,.NET, ASPNET, C# e SQL Server.</p>
+Experiência em Java, JavaScript, AngularJS, Angular, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile,.NET, C# e SQL Server.</p>
 
 <div align="left">
   <a href="https://github.com/italgustavo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italgustavo&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italgustavo&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
-#### Tecnologias que tenho experiência:
-<div style="display: inline_block">
-  <img align="center" alt="Italo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Italo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Italo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Italo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Italo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Italo-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Italo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
   
   ##
