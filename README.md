@@ -2,15 +2,16 @@
 
 <p>Desenvolvedor com 4 anos de experiência, graduado em Análise e Desenvolvimento de Sistemas.
 
-Atuei em projetos internacionais em uma das maiores soluções em gestão hospitalar do mundo.
+Atuei em projetos internacionais em uma das maiores soluções em gestão hospitalar do mundo.</p>
 
-Experiência em Java, JavaScript, AngularJS, Angular, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile,.NET, C# e SQL Server.</p>
 
 <div align="left">
   <a href="https://github.com/italgustavo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italgustavo&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italgustavo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+  <br>
+  Experiência em Java, JavaScript, AngularJS, Angular, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile, .NET, C# e SQL Server.
   
   ##
  
