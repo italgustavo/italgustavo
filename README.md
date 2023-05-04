@@ -12,10 +12,12 @@ I am a software engineer with hold a degree in Systems Analysis and Development.
 
 <div align="left">
   <a href="https://github.com/italgustavo">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=italgustavo&show_icons=true&theme=cobalt"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italgustavo&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italgustavo&show_icons=true&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italgustavo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-  </br>
+  
+</br>
+  
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
@@ -38,6 +40,5 @@ I am a software engineer with hold a degree in Systems Analysis and Development.
 </div>
 
 <br />
-  
-  
+   
 - Thanks for visiting.
