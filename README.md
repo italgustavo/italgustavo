@@ -6,7 +6,10 @@
 
 ## About me
 
-I am a software engineer with hold a degree in Systems Analysis and Development. I have worked on international projects for one of the largest hospital management solutions in the world, and I possess knowledge in various programming languages and technologies, including Java, JavaScript, AngularJS, Angular, Spring Boot, Oracle, PL/SQL, Git/GitHub, Agile, Azure DevOps, .NET, C#, and SQL Server.
+Java Backend Developer with 5 years of experience in distributed systems architecture, microservices, complex integrations, and cloud computing (AWS and Azure). Experience working on large-scale international projects involving SaaS, CRM, ERP, microservices, and monolithic systems, delivering solutions to markets in Australia, Argentina, Colombia, Peru, and Japan, including collaboration with the National Export and Investment Promotion Agency.
+
+Strong background in Java, engineering best practices, relational and non-relational databases, automated testing, CI/CD, observability, and code quality, with additional experience in technical consulting and IT techniques in amateur projects. Professional experience across a wide range of technologies, including Java EE, Spring, JavaScript, TypeScript, Angular, Vue.js, HTML, HTL, SCSS, CSS, Adobe Experience Manager, Python, Django REST Framework, PHP, AWS, Azure, RabbitMQ, Agile methodologies, GitLab, GitHub, Jenkins, Docker, MongoDB, PL/SQL, Oracle, MySQL, and SQL Server.
+Languages: Native Portuguese, Intermediate English, and Basic Spanish.
 
 ## Language and Tools
 
